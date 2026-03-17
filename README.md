@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav0542&label=Profile%20views&color=0e75b6&style=flat" alt="rishav0542" /> </p>
 
-- 🔭 I’m currently working on **UPS logistics Efficiency**
 
-- 🌱 I’m currently learning **Python data analysis libraries**
+- 🔭 I’m currently working on **Data Analytics Projects**
+
+- 🌱 I’m currently learning **Data Science and it's core domain**
 
 - 💬 Ask me about **Data and insights!**
 
